@@ -23,6 +23,8 @@ To validate the lab's performance, I executed multiple attack scenarios to ensur
 + Malware detection: Identifying malicious files and responding appropriately.
 + SQL injection attack detection: Detecting and mitigating database attack attempts.
 
+![image](https://github.com/user-attachments/assets/15e30627-7f5c-4bfe-8761-1469c1468c74)
+
 https://imgur.com/D56F639
 https://imgur.com/vbMg3bO
 https://imgur.com/agPwTh2
