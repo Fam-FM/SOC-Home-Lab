@@ -22,3 +22,15 @@ SOC Analyst: Utilizes these tools collectively to monitor systems, analyze incid
 To validate the lab's performance, I executed multiple attack scenarios to ensure the tools could detect, analyze, and respond effectively. Example scenarios include:
 + Malware detection: Identifying malicious files and responding appropriately.
 + SQL injection attack detection: Detecting and mitigating database attack attempts.
+
+https://imgur.com/D56F639
+https://imgur.com/vbMg3bO
+https://imgur.com/agPwTh2
+https://imgur.com/EmlYERM
+https://imgur.com/ipReHoC
+https://imgur.com/4RLmqtf
+https://imgur.com/a6f7l5t
+https://imgur.com/DrXIysW
+https://imgur.com/omCuA1p
+https://imgur.com/TN5x5Y4
+https://imgur.com/t5bYZhy
